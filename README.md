@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on React projects<br>- 👯 I’m looking to collaborate on React-based applications<br>- 🤝 I’m looking for help with advanced React patterns and performance optimization<br>- 🌱 I’m currently learning deeper concepts of React and modern frontend architecture<br>- 💬 Ask me about React, JavaScript, and web development<br>- ⚡ Fun fact: I enjoy turning ideas into interactive web apps
+- 🔭 I’m currently working on React projects<br>- 👯 I’m looking to collaborate on React-based applications and others<br>- 🤝 I’m looking for help with advanced React patterns and performance optimization<br>- 🌱 I’m currently learning deeper concepts of AI and modern frontend and backend architecture<br>- 💬 Ask me about React, JavaScript, AI and web development<br>- ⚡ Fun fact: I enjoy turning ideas into interactive web apps
 
 
 ## 🌐 Socials:
