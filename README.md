@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on React projects<br>- 👯 I’m looking to collaborate on React-based applications and others<br>- 🤝 I’m looking for help with advanced React patterns and performance optimization<br>- 🌱 I’m currently learning deeper concepts of AI and modern frontend and backend architecture<br>- 💬 Ask me about React, JavaScript, AI and web development<br>- ⚡ Fun fact: I enjoy turning ideas into interactive web apps
+- 🔭 I’m currently working on React and AI projects<br>- 👯 I’m looking to collaborate on React-based applications and others<br>- 🤝 I’m looking for help with advanced React patterns and performance optimization<br>- 🌱 I’m currently learning deeper concepts of AI, modern frontend and backend architecture<br>- 💬 Ask me about React, JavaScript, AI, and web development<br>- ⚡ Fun fact: I enjoy turning ideas into interactive web apps
 
 
 ## 🌐 Socials:
@@ -19,7 +19,7 @@
 [![](https://visitcount.itsvg.in/api?id=KevinPorras99&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/KevinPorrasCampos) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/KevinPorras99) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
